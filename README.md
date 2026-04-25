@@ -20,8 +20,9 @@ Built an automation system to collect , organise , and monitor customer feedback
     GOOGLEFORM-> GOOGLE SHEETS ->MAKE ROUTER ->NOTION / GMAIL / WEBHOOK
     ## DEMO VIDEO
       https://www.loom.com/share/9d7f9b5380fe4a2787bce422e60a822b
-    ## WPRKFLOW SCREENSHOT
-
+    ## WORKFLOW SCREENSHOT
+      https://github.com/chahek-stack/BUSINESS--FEEDBACK---DASHBOARD/blob/main/Screen%20Shot%202026-04-25%20at%206.33.06%20PM.png?raw=true
+    
     ## NOTION DASHBOARD
 
     ## EMAIL ALERT
