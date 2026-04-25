@@ -19,7 +19,7 @@ Built an automation system to collect , organise , and monitor customer feedback
     ## WORKFLOW
     GOOGLEFORM-> GOOGLE SHEETS ->MAKE ROUTER ->NOTION / GMAIL / WEBHOOK
     ## DEMO VIDEO
-
+      https://www.loom.com/share/9d7f9b5380fe4a2787bce422e60a822b
     ## WPRKFLOW SCREENSHOT
 
     ## NOTION DASHBOARD
