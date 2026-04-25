@@ -21,11 +21,10 @@ Built an automation system to collect , organise , and monitor customer feedback
     ## DEMO VIDEO
       https://www.loom.com/share/9d7f9b5380fe4a2787bce422e60a822b
     ## WORKFLOW SCREENSHOT
-     - https://github.com/chahek-stack/BUSINESS--FEEDBACK---DASHBOARD/blob/main/Screen%20Shot%202026-04-25%20at%206.33.06%20PM.png?raw=true
-   - https://github.com/chahek-stack/BUSINESS--FEEDBACK---DASHBOARD/blob/main/Screen%20Shot%202026-04-25%20at%206.34.26%20PM.png?raw=true
-   - 
+  - https://github.com/chahek-stack/BUSINESS--FEEDBACK---DASHBOARD/blob/main/Screen%20Shot%202026-04-25%20at%206.33.06%20PM.png?raw=true
     ## NOTION DASHBOARD
-
+ - https://github.com/chahek-stack/BUSINESS--FEEDBACK---DASHBOARD/blob/main/Screen%20Shot%202026-04-25%20at%206.34.26%20PM.png?raw=true
+ - https://github.com/chahek-stack/BUSINESS--FEEDBACK---DASHBOARD/blob/main/Screen%20Shot%202026-04-25%20at%206.34.55%20PM.png?raw=true
     ## EMAIL ALERT
 
     ## WEBHOOK MONITORING
