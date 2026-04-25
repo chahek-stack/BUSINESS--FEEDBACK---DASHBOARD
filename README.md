@@ -1,13 +1,18 @@
-# BUSINESS--FEEDBACK---DASHBOARD
+# BUSINESS - FEEDBACK - DASHBOARD
+
 Built an automation system to collect , organise , and monitor customer feedback.
+
 ## tools used
+
 - MAKE.COM
 - GOOGLE FORMS
 - GOOGLE SHEETS
 - NOTION
 - GMAIL
 - WEBHOOK.SITE
+- 
   ## FEATURES
+  
   - Captures customer responses automatically
   - routes feedback by rating score
   - Assigns priority (HIGH / MEDIUM / LOW)
@@ -16,17 +21,34 @@ Built an automation system to collect , organise , and monitor customer feedback
   - Sends urgent alert emails
   - Sends daily summary emails
   - Shows live webhook payload monitoring
+  - 
     ## WORKFLOW
+    
     GOOGLEFORM-> GOOGLE SHEETS ->MAKE ROUTER ->NOTION / GMAIL / WEBHOOK
+    
     ## DEMO VIDEO
+    
       https://www.loom.com/share/9d7f9b5380fe4a2787bce422e60a822b
+    
     ## WORKFLOW SCREENSHOT
+  
   - https://github.com/chahek-stack/BUSINESS--FEEDBACK---DASHBOARD/blob/main/Screen%20Shot%202026-04-25%20at%206.33.06%20PM.png?raw=true
+    
   - https://github.com/chahek-stack/BUSINESS--FEEDBACK---DASHBOARD/blob/main/Screen%20Shot%202026-04-25%20at%206.32.21%20PM.png?raw=true
+    
     ## NOTION DASHBOARD
+  
  - https://github.com/chahek-stack/BUSINESS--FEEDBACK---DASHBOARD/blob/main/Screen%20Shot%202026-04-25%20at%206.34.26%20PM.png?raw=true
+   
  - https://github.com/chahek-stack/BUSINESS--FEEDBACK---DASHBOARD/blob/main/Screen%20Shot%202026-04-25%20at%206.34.55%20PM.png?raw=true
+   
  - https://github.com/chahek-stack/BUSINESS--FEEDBACK---DASHBOARD/blob/main/Screen%20Shot%202026-04-25%20at%206.35.41%20PM.png?raw=true
+   
     ## WEBHOOK MONITORING
+   
   - https://github.com/chahek-stack/BUSINESS--FEEDBACK---DASHBOARD/blob/main/Screen%20Shot%202026-04-25%20at%206.36.58%20PM.png?raw=true
-    ## EMAIL REMINDER
+    
+    ## DAILY SUMMARY
+    DAILY SUMMARY AUTOMATION THAT SENDS FEEDBACK REPORT EVERY MORNING AT 8:00 AM THROUGH GMAIL.
+    
+  - https://github.com/chahek-stack/BUSINESS--FEEDBACK---DASHBOARD/blob/main/Screen%20Shot%202026-04-25%20at%206.38.11%20PM.png?raw=true
